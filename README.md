@@ -22,7 +22,7 @@ A responsive and minimalistic weather forecast web application built using **HTM
 
 ## 🖼️ Preview
 
-![Search Screen](assets/message/search-city.png)
+![Search Screen](assets/preview/webPreview.PNG)
 
 ---
 
